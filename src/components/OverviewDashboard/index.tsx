@@ -92,22 +92,22 @@ function MainContent({
             })}
           </div>
         )}
-        <div className="flex flex-col space-y-3 lg:flex-row lg:space-x-3 mt-4">
-          <div>
+        <div className="flex flex-col lg:flex-row lg:space-x-3 mt-4">
+          <div className="flex-1">
             {isEmptyUserData ? (
               <Skeleton active />
             ) : (
               <LineChartComponent data={userData} />
             )}
           </div>
-          <div>
+          <div className="flex-1">
             {isEmptyRevData ? (
               <Skeleton active />
             ) : (
               <PieChartComponent data={revData} setRevSource={setRevSource} />
             )}
           </div>
-          <div>
+          <div className="flex-1">
             {isEmptyTopStreamData ? (
               <Skeleton active />
             ) : (

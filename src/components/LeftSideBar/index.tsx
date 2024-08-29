@@ -26,7 +26,7 @@ export default function LeftSideBar() {
         <li
           className={`menu-item p-2 rounded text-lg flex justify-between items-center hover:cusros-pointer ${
             selectedItem === "overview"
-              ? "text-black bg-orange-300"
+              ? "text-black bg-orange-300 drop-shadow-lg"
               : "text-gray-500 bg-white hover:bg-orange-100"
           }`}
           onClick={() => handleSelection("overview", "/overview")}
@@ -37,7 +37,7 @@ export default function LeftSideBar() {
         <li
           className={`menu-item p-2 rounded text-lg flex justify-between items-center hover:cusros-pointer ${
             selectedItem === "sales-and-revenue"
-              ? "text-black bg-orange-300"
+              ? "text-black bg-orange-300 drop-shadow-lg"
               : "text-gray-500 bg-white hover:bg-orange-100"
           }`}
           onClick={() =>
@@ -52,7 +52,7 @@ export default function LeftSideBar() {
         <li
           className={`menu-item p-2 rounded text-lg flex justify-between items-center hover:cusros-pointer ${
             selectedItem === "subscriptions"
-              ? "text-black bg-orange-300"
+              ? "text-black bg-orange-300 drop-shadow-lg"
               : "text-gray-500 bg-white hover:bg-orange-100"
           }`}
           onClick={() => handleSelection("subscriptions", "/subscriptions")}
