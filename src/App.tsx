@@ -1,4 +1,9 @@
-import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import {
+  BrowserRouter as Router,
+  Routes,
+  Route,
+  Navigate,
+} from "react-router-dom";
 import LeftSideBar from "./components/LeftSideBar";
 import Header from "./components/Header";
 import OverviewDashboard from "./components/OverviewDashboard";
@@ -14,6 +19,7 @@ export default function App() {
         <div className="flex flex-col w-full pr-4 border overflow-auto">
           <Header />
           <Routes>
+            <Route path="/" element={<Navigate to="/overview" />} />
             <Route path="/overview" element={<OverviewDashboard />} />
             <Route
               path="/sales-and-revenue"
