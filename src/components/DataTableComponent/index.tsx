@@ -121,18 +121,18 @@ const DataTableComponent: React.FC<{ data: DataType[] }> = ({ data }) => {
 
   const columns: TableColumnsType<DataType> = [
     {
-      title: "UserId",
+      title: "User Id",
       dataIndex: "userId",
       key: "userId",
     },
     {
-      title: "SongName",
+      title: "Song Name",
       dataIndex: "songName",
       key: "songName",
       ...getColumnSearchProps("songName"),
     },
     {
-      title: "Artist",
+      title: "Artist Name",
       dataIndex: "artist",
       key: "artist",
       ...getColumnSearchProps("artist"),
@@ -153,7 +153,12 @@ const DataTableComponent: React.FC<{ data: DataType[] }> = ({ data }) => {
     },
   ];
 
-  return <Table columns={columns} dataSource={data} />;
+  return (
+    <>
+      <div className="text-2xl font-bold pb-4">Streaming Data Overview</div>
+      <Table columns={columns} dataSource={data} bordered />
+    </>
+  );
 };
 
 export default DataTableComponent;
