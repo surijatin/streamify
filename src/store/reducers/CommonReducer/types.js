@@ -1,0 +1,5 @@
+export const SET_USERS_DATA = "SET_USERS_DATA";
+export const SET_REV_DATA = "SET_REV_DATA";
+export const SET_REV_SOURCE = "SET_REV_SOURCE";
+export const SET_TOP_STREAMS = "SET_TOP_STREAMS";
+export const SET_STREAMING_DATA = "SET_STREAMING_DATA";

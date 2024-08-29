@@ -1,0 +1,802 @@
+[
+  {
+    "songName": "Echoes of Silence",
+    "artist": "The Weeknd",
+    "dateStreamed": "2024-08-01T22:06:28Z",
+    "streamCount": 9,
+    "userId": 776,
+    "sourceType": "premium_sub"
+  },
+  {
+    "songName": "Montero",
+    "artist": "Lil Nas X",
+    "dateStreamed": "2024-08-23T02:26:22Z",
+    "streamCount": 8,
+    "userId": 132,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "Levitating",
+    "artist": "Dua Lipa",
+    "dateStreamed": "2024-08-25T19:27:16Z",
+    "streamCount": 4,
+    "userId": 386,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "Good Days",
+    "artist": "SZA",
+    "dateStreamed": "2024-08-17T15:40:40Z",
+    "streamCount": 4,
+    "userId": 616,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "Levitating",
+    "artist": "Dua Lipa",
+    "dateStreamed": "2024-08-18T14:56:55Z",
+    "streamCount": 6,
+    "userId": 213,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "Levitating",
+    "artist": "Dua Lipa",
+    "dateStreamed": "2024-08-10T20:52:40Z",
+    "streamCount": 9,
+    "userId": 621,
+    "sourceType": "premium_sub"
+  },
+  {
+    "songName": "Blinding Lights",
+    "artist": "The Weeknd",
+    "dateStreamed": "2024-08-20T19:23:43Z",
+    "streamCount": 4,
+    "userId": 511,
+    "sourceType": "premium_sub"
+  },
+  {
+    "songName": "Bad Habits",
+    "artist": "Ed Sheeran",
+    "dateStreamed": "2024-08-02T04:21:29Z",
+    "streamCount": 10,
+    "userId": 452,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "Blinding Lights",
+    "artist": "The Weeknd",
+    "dateStreamed": "2024-08-18T03:53:16Z",
+    "streamCount": 3,
+    "userId": 882,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "Save Your Tears",
+    "artist": "The Weeknd",
+    "dateStreamed": "2024-08-23T03:50:35Z",
+    "streamCount": 5,
+    "userId": 280,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "Save Your Tears",
+    "artist": "The Weeknd",
+    "dateStreamed": "2024-08-12T00:10:36Z",
+    "streamCount": 10,
+    "userId": 216,
+    "sourceType": "premium_sub"
+  },
+  {
+    "songName": "Levitating",
+    "artist": "Dua Lipa",
+    "dateStreamed": "2024-08-12T09:25:04Z",
+    "streamCount": 1,
+    "userId": 116,
+    "sourceType": "premium_sub"
+  },
+  {
+    "songName": "Bad Habits",
+    "artist": "Ed Sheeran",
+    "dateStreamed": "2024-08-29T21:28:16Z",
+    "streamCount": 3,
+    "userId": 644,
+    "sourceType": "premium_sub"
+  },
+  {
+    "songName": "Happier Than Ever",
+    "artist": "Billie Eilish",
+    "dateStreamed": "2024-08-18T21:24:46Z",
+    "streamCount": 7,
+    "userId": 451,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "Bad Habits",
+    "artist": "Ed Sheeran",
+    "dateStreamed": "2024-08-17T11:56:13Z",
+    "streamCount": 4,
+    "userId": 417,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "Happier Than Ever",
+    "artist": "Billie Eilish",
+    "dateStreamed": "2024-08-01T20:34:41Z",
+    "streamCount": 10,
+    "userId": 788,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "Happier Than Ever",
+    "artist": "Billie Eilish",
+    "dateStreamed": "2024-08-04T17:00:23Z",
+    "streamCount": 5,
+    "userId": 618,
+    "sourceType": "premium_sub"
+  },
+  {
+    "songName": "Save Your Tears",
+    "artist": "The Weeknd",
+    "dateStreamed": "2024-08-26T04:19:47Z",
+    "streamCount": 9,
+    "userId": 594,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "Good Days",
+    "artist": "SZA",
+    "dateStreamed": "2024-08-19T17:29:10Z",
+    "streamCount": 10,
+    "userId": 878,
+    "sourceType": "premium_sub"
+  },
+  {
+    "songName": "Bad Habits",
+    "artist": "Ed Sheeran",
+    "dateStreamed": "2024-08-28T15:39:50Z",
+    "streamCount": 4,
+    "userId": 583,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "Happier Than Ever",
+    "artist": "Billie Eilish",
+    "dateStreamed": "2024-08-06T06:27:17Z",
+    "streamCount": 6,
+    "userId": 660,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "Bad Habits",
+    "artist": "Ed Sheeran",
+    "dateStreamed": "2024-08-17T03:10:17Z",
+    "streamCount": 4,
+    "userId": 540,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "Happier Than Ever",
+    "artist": "Billie Eilish",
+    "dateStreamed": "2024-08-30T04:53:49Z",
+    "streamCount": 2,
+    "userId": 890,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "Good Days",
+    "artist": "SZA",
+    "dateStreamed": "2024-08-13T01:02:06Z",
+    "streamCount": 8,
+    "userId": 364,
+    "sourceType": "premium_sub"
+  },
+  {
+    "songName": "Industry Baby",
+    "artist": "Lil Nas X",
+    "dateStreamed": "2024-08-24T15:57:06Z",
+    "streamCount": 5,
+    "userId": 895,
+    "sourceType": "premium_sub"
+  },
+  {
+    "songName": "Blinding Lights",
+    "artist": "The Weeknd",
+    "dateStreamed": "2024-08-07T13:27:37Z",
+    "streamCount": 5,
+    "userId": 219,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "Blinding Lights",
+    "artist": "The Weeknd",
+    "dateStreamed": "2024-08-09T17:44:58Z",
+    "streamCount": 1,
+    "userId": 837,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "Echoes of Silence",
+    "artist": "The Weeknd",
+    "dateStreamed": "2024-08-07T01:09:32Z",
+    "streamCount": 1,
+    "userId": 293,
+    "sourceType": "premium_sub"
+  },
+  {
+    "songName": "Industry Baby",
+    "artist": "Lil Nas X",
+    "dateStreamed": "2024-08-29T09:03:11Z",
+    "streamCount": 5,
+    "userId": 204,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "Levitating",
+    "artist": "Dua Lipa",
+    "dateStreamed": "2024-08-07T03:07:53Z",
+    "streamCount": 9,
+    "userId": 966,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "Industry Baby",
+    "artist": "Lil Nas X",
+    "dateStreamed": "2024-08-02T07:01:15Z",
+    "streamCount": 1,
+    "userId": 823,
+    "sourceType": "premium_sub"
+  },
+  {
+    "songName": "Happier Than Ever",
+    "artist": "Billie Eilish",
+    "dateStreamed": "2024-08-18T14:53:35Z",
+    "streamCount": 9,
+    "userId": 116,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "As It Was",
+    "artist": "Harry Styles",
+    "dateStreamed": "2024-08-21T09:31:35Z",
+    "streamCount": 1,
+    "userId": 507,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "Good Days",
+    "artist": "SZA",
+    "dateStreamed": "2024-08-26T11:33:22Z",
+    "streamCount": 5,
+    "userId": 279,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "Good Days",
+    "artist": "SZA",
+    "dateStreamed": "2024-08-23T02:47:31Z",
+    "streamCount": 5,
+    "userId": 987,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "Echoes of Silence",
+    "artist": "The Weeknd",
+    "dateStreamed": "2024-08-17T21:01:47Z",
+    "streamCount": 5,
+    "userId": 548,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "Levitating",
+    "artist": "Dua Lipa",
+    "dateStreamed": "2024-08-06T11:02:53Z",
+    "streamCount": 3,
+    "userId": 511,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "Good Days",
+    "artist": "SZA",
+    "dateStreamed": "2024-08-25T11:36:20Z",
+    "streamCount": 2,
+    "userId": 121,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "Blinding Lights",
+    "artist": "The Weeknd",
+    "dateStreamed": "2024-08-14T01:53:31Z",
+    "streamCount": 5,
+    "userId": 275,
+    "sourceType": "premium_sub"
+  },
+  {
+    "songName": "Bad Habits",
+    "artist": "Ed Sheeran",
+    "dateStreamed": "2024-08-06T12:31:19Z",
+    "streamCount": 5,
+    "userId": 837,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "Bad Habits",
+    "artist": "Ed Sheeran",
+    "dateStreamed": "2024-08-16T08:13:44Z",
+    "streamCount": 10,
+    "userId": 997,
+    "sourceType": "premium_sub"
+  },
+  {
+    "songName": "Happier Than Ever",
+    "artist": "Billie Eilish",
+    "dateStreamed": "2024-08-22T06:30:42Z",
+    "streamCount": 7,
+    "userId": 612,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "Save Your Tears",
+    "artist": "The Weeknd",
+    "dateStreamed": "2024-08-31T13:02:53Z",
+    "streamCount": 6,
+    "userId": 878,
+    "sourceType": "premium_sub"
+  },
+  {
+    "songName": "Montero",
+    "artist": "Lil Nas X",
+    "dateStreamed": "2024-08-05T19:16:19Z",
+    "streamCount": 7,
+    "userId": 760,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "Montero",
+    "artist": "Lil Nas X",
+    "dateStreamed": "2024-08-16T22:43:26Z",
+    "streamCount": 10,
+    "userId": 482,
+    "sourceType": "premium_sub"
+  },
+  {
+    "songName": "Blinding Lights",
+    "artist": "The Weeknd",
+    "dateStreamed": "2024-08-12T19:00:48Z",
+    "streamCount": 1,
+    "userId": 390,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "As It Was",
+    "artist": "Harry Styles",
+    "dateStreamed": "2024-08-27T02:26:59Z",
+    "streamCount": 9,
+    "userId": 516,
+    "sourceType": "premium_sub"
+  },
+  {
+    "songName": "Echoes of Silence",
+    "artist": "The Weeknd",
+    "dateStreamed": "2024-08-11T13:52:52Z",
+    "streamCount": 2,
+    "userId": 666,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "Happier Than Ever",
+    "artist": "Billie Eilish",
+    "dateStreamed": "2024-08-19T13:01:54Z",
+    "streamCount": 10,
+    "userId": 980,
+    "sourceType": "premium_sub"
+  },
+  {
+    "songName": "As It Was",
+    "artist": "Harry Styles",
+    "dateStreamed": "2024-08-26T06:16:56Z",
+    "streamCount": 9,
+    "userId": 396,
+    "sourceType": "premium_sub"
+  },
+  {
+    "songName": "Industry Baby",
+    "artist": "Lil Nas X",
+    "dateStreamed": "2024-08-01T11:41:46Z",
+    "streamCount": 4,
+    "userId": 614,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "Good Days",
+    "artist": "SZA",
+    "dateStreamed": "2024-08-11T04:26:19Z",
+    "streamCount": 9,
+    "userId": 283,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "Montero",
+    "artist": "Lil Nas X",
+    "dateStreamed": "2024-08-21T18:34:15Z",
+    "streamCount": 1,
+    "userId": 107,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "Levitating",
+    "artist": "Dua Lipa",
+    "dateStreamed": "2024-08-07T14:53:25Z",
+    "streamCount": 6,
+    "userId": 214,
+    "sourceType": "premium_sub"
+  },
+  {
+    "songName": "Echoes of Silence",
+    "artist": "The Weeknd",
+    "dateStreamed": "2024-08-16T04:03:16Z",
+    "streamCount": 4,
+    "userId": 134,
+    "sourceType": "premium_sub"
+  },
+  {
+    "songName": "Good Days",
+    "artist": "SZA",
+    "dateStreamed": "2024-08-30T22:33:11Z",
+    "streamCount": 8,
+    "userId": 437,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "Save Your Tears",
+    "artist": "The Weeknd",
+    "dateStreamed": "2024-08-06T13:59:32Z",
+    "streamCount": 6,
+    "userId": 111,
+    "sourceType": "premium_sub"
+  },
+  {
+    "songName": "Industry Baby",
+    "artist": "Lil Nas X",
+    "dateStreamed": "2024-08-30T13:58:30Z",
+    "streamCount": 4,
+    "userId": 420,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "Good Days",
+    "artist": "SZA",
+    "dateStreamed": "2024-08-10T01:30:13Z",
+    "streamCount": 7,
+    "userId": 477,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "Levitating",
+    "artist": "Dua Lipa",
+    "dateStreamed": "2024-08-18T11:54:15Z",
+    "streamCount": 1,
+    "userId": 597,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "Montero",
+    "artist": "Lil Nas X",
+    "dateStreamed": "2024-08-31T18:39:34Z",
+    "streamCount": 7,
+    "userId": 807,
+    "sourceType": "premium_sub"
+  },
+  {
+    "songName": "Bad Habits",
+    "artist": "Ed Sheeran",
+    "dateStreamed": "2024-08-07T00:37:53Z",
+    "streamCount": 3,
+    "userId": 763,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "Save Your Tears",
+    "artist": "The Weeknd",
+    "dateStreamed": "2024-08-08T17:55:23Z",
+    "streamCount": 10,
+    "userId": 19,
+    "sourceType": "premium_sub"
+  },
+  {
+    "songName": "Industry Baby",
+    "artist": "Lil Nas X",
+    "dateStreamed": "2024-08-13T12:55:13Z",
+    "streamCount": 3,
+    "userId": 263,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "Save Your Tears",
+    "artist": "The Weeknd",
+    "dateStreamed": "2024-08-08T00:01:11Z",
+    "streamCount": 3,
+    "userId": 710,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "Good Days",
+    "artist": "SZA",
+    "dateStreamed": "2024-08-28T06:28:53Z",
+    "streamCount": 9,
+    "userId": 56,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "Montero",
+    "artist": "Lil Nas X",
+    "dateStreamed": "2024-08-13T03:52:14Z",
+    "streamCount": 1,
+    "userId": 769,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "Save Your Tears",
+    "artist": "The Weeknd",
+    "dateStreamed": "2024-08-25T01:10:48Z",
+    "streamCount": 2,
+    "userId": 791,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "Montero",
+    "artist": "Lil Nas X",
+    "dateStreamed": "2024-08-05T04:28:11Z",
+    "streamCount": 4,
+    "userId": 761,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "Good Days",
+    "artist": "SZA",
+    "dateStreamed": "2024-08-12T04:48:00Z",
+    "streamCount": 1,
+    "userId": 588,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "Levitating",
+    "artist": "Dua Lipa",
+    "dateStreamed": "2024-08-15T10:25:52Z",
+    "streamCount": 7,
+    "userId": 11,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "Blinding Lights",
+    "artist": "The Weeknd",
+    "dateStreamed": "2024-08-19T11:11:01Z",
+    "streamCount": 8,
+    "userId": 131,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "Save Your Tears",
+    "artist": "The Weeknd",
+    "dateStreamed": "2024-08-13T09:21:19Z",
+    "streamCount": 3,
+    "userId": 443,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "Good Days",
+    "artist": "SZA",
+    "dateStreamed": "2024-08-28T14:26:59Z",
+    "streamCount": 2,
+    "userId": 342,
+    "sourceType": "premium_sub"
+  },
+  {
+    "songName": "Blinding Lights",
+    "artist": "The Weeknd",
+    "dateStreamed": "2024-08-22T09:36:29Z",
+    "streamCount": 2,
+    "userId": 495,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "Echoes of Silence",
+    "artist": "The Weeknd",
+    "dateStreamed": "2024-08-14T08:18:39Z",
+    "streamCount": 7,
+    "userId": 938,
+    "sourceType": "premium_sub"
+  },
+  {
+    "songName": "Bad Habits",
+    "artist": "Ed Sheeran",
+    "dateStreamed": "2024-08-13T18:10:29Z",
+    "streamCount": 5,
+    "userId": 911,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "Bad Habits",
+    "artist": "Ed Sheeran",
+    "dateStreamed": "2024-08-14T08:44:22Z",
+    "streamCount": 2,
+    "userId": 301,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "Industry Baby",
+    "artist": "Lil Nas X",
+    "dateStreamed": "2024-08-13T00:16:57Z",
+    "streamCount": 6,
+    "userId": 912,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "As It Was",
+    "artist": "Harry Styles",
+    "dateStreamed": "2024-08-11T20:33:24Z",
+    "streamCount": 3,
+    "userId": 855,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "Bad Habits",
+    "artist": "Ed Sheeran",
+    "dateStreamed": "2024-08-07T13:56:22Z",
+    "streamCount": 10,
+    "userId": 275,
+    "sourceType": "premium_sub"
+  },
+  {
+    "songName": "Echoes of Silence",
+    "artist": "The Weeknd",
+    "dateStreamed": "2024-08-16T11:29:45Z",
+    "streamCount": 2,
+    "userId": 755,
+    "sourceType": "premium_sub"
+  },
+  {
+    "songName": "Happier Than Ever",
+    "artist": "Billie Eilish",
+    "dateStreamed": "2024-08-19T10:11:00Z",
+    "streamCount": 4,
+    "userId": 280,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "Levitating",
+    "artist": "Dua Lipa",
+    "dateStreamed": "2024-08-09T06:13:31Z",
+    "streamCount": 5,
+    "userId": 532,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "Bad Habits",
+    "artist": "Ed Sheeran",
+    "dateStreamed": "2024-08-25T05:37:31Z",
+    "streamCount": 8,
+    "userId": 400,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "Blinding Lights",
+    "artist": "The Weeknd",
+    "dateStreamed": "2024-08-19T01:08:39Z",
+    "streamCount": 9,
+    "userId": 483,
+    "sourceType": "premium_sub"
+  },
+  {
+    "songName": "Montero",
+    "artist": "Lil Nas X",
+    "dateStreamed": "2024-08-16T03:48:01Z",
+    "streamCount": 9,
+    "userId": 581,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "Blinding Lights",
+    "artist": "The Weeknd",
+    "dateStreamed": "2024-08-21T02:32:19Z",
+    "streamCount": 3,
+    "userId": 777,
+    "sourceType": "premium_sub"
+  },
+  {
+    "songName": "As It Was",
+    "artist": "Harry Styles",
+    "dateStreamed": "2024-08-18T21:11:28Z",
+    "streamCount": 5,
+    "userId": 939,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "Industry Baby",
+    "artist": "Lil Nas X",
+    "dateStreamed": "2024-08-11T10:31:38Z",
+    "streamCount": 1,
+    "userId": 213,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "Montero",
+    "artist": "Lil Nas X",
+    "dateStreamed": "2024-08-18T21:59:19Z",
+    "streamCount": 3,
+    "userId": 863,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "Blinding Lights",
+    "artist": "The Weeknd",
+    "dateStreamed": "2024-08-23T02:53:49Z",
+    "streamCount": 3,
+    "userId": 825,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "Blinding Lights",
+    "artist": "The Weeknd",
+    "dateStreamed": "2024-08-06T09:19:06Z",
+    "streamCount": 1,
+    "userId": 318,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "Blinding Lights",
+    "artist": "The Weeknd",
+    "dateStreamed": "2024-08-18T08:24:43Z",
+    "streamCount": 6,
+    "userId": 11,
+    "sourceType": "basic_sub"
+  },
+  {
+    "songName": "Save Your Tears",
+    "artist": "The Weeknd",
+    "dateStreamed": "2024-08-03T14:51:33Z",
+    "streamCount": 5,
+    "userId": 841,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "As It Was",
+    "artist": "Harry Styles",
+    "dateStreamed": "2024-08-18T17:09:48Z",
+    "streamCount": 7,
+    "userId": 428,
+    "sourceType": "premium_sub"
+  },
+  {
+    "songName": "Levitating",
+    "artist": "Dua Lipa",
+    "dateStreamed": "2024-08-03T18:37:03Z",
+    "streamCount": 1,
+    "userId": 220,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "Echoes of Silence",
+    "artist": "The Weeknd",
+    "dateStreamed": "2024-08-03T02:51:06Z",
+    "streamCount": 7,
+    "userId": 522,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "Montero",
+    "artist": "Lil Nas X",
+    "dateStreamed": "2024-08-29T09:12:48Z",
+    "streamCount": 5,
+    "userId": 650,
+    "sourceType": "ads"
+  },
+  {
+    "songName": "As It Was",
+    "artist": "Harry Styles",
+    "dateStreamed": "2024-08-28T07:52:34Z",
+    "streamCount": 2,
+    "userId": 506,
+    "sourceType": "ads"
+  }
+]

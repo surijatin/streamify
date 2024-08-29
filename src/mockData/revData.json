@@ -1,0 +1,5 @@
+[
+  { "source": "basic_sub", "amount": 15000, "fill": "hsl(var(--chart-1))" },
+  { "source": "ads", "amount": 5000, "fill": "hsl(var(--chart-2))" },
+  { "source": "premium_sub", "amount": 2000, "fill": "hsl(var(--chart-3))" }
+]

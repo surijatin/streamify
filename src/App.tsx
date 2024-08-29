@@ -1,26 +1,31 @@
-import React from 'react';
-import logo from './logo.svg';
-import './App.css';
+import { BrowserRouter as Router, Routes, Route } from "react-router-dom";
+import LeftSideBar from "./components/LeftSideBar";
+import Header from "./components/Header";
+import OverviewDashboard from "./components/OverviewDashboard";
+import UnderDevelopmentComponent from "./components/UnderDevelopmentComponent";
 
-function App() {
+export default function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.tsx</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
-    </div>
+    <Router>
+      <div className="h-screen flex">
+        <div className="hidden md:block">
+          <LeftSideBar />
+        </div>
+        <div className="flex flex-col w-full pr-4 border overflow-auto">
+          <Header />
+          <Routes>
+            <Route path="/overview" element={<OverviewDashboard />} />
+            <Route
+              path="/sales-and-revenue"
+              element={<UnderDevelopmentComponent />}
+            />
+            <Route
+              path="/subscriptions"
+              element={<UnderDevelopmentComponent />}
+            />
+          </Routes>
+        </div>
+      </div>
+    </Router>
   );
 }
-
-export default App;
