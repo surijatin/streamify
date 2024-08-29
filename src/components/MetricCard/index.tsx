@@ -23,25 +23,25 @@ export default function MetricCard({ value, title, index }: MetricCardProps) {
     <Card
       bordered={true}
       key={index}
-      className="transition-transform transform hover:scale-105 border-2 border-orange-400 bg-orange-200"
+      className="transition-transform transform hover:scale-105 border-2 bg-white drop-shadow-sm "
     >
       <Statistic
         title={<div className="text-gray-800 text-lg">{newTitle}</div>}
         value={title === "total_revenue" ? `$${val}` : val}
-        precision={2}
         prefix={
           title === "total_users" ? (
-            <UserOutlined />
+            <UserOutlined className="text-orange-500" />
           ) : title === "active_users" ? (
-            <UserSwitchOutlined />
+            <UserSwitchOutlined className="text-orange-500" />
           ) : title === "total_streams" ? (
-            <PlayCircleOutlined />
+            <PlayCircleOutlined className="text-orange-500" />
           ) : title === "total_revenue" ? (
-            <DollarOutlined />
+            <DollarOutlined className="text-orange-500" />
           ) : title === "top_artist" ? (
-            <StarOutlined />
+            <StarOutlined className="text-orange-500" />
           ) : null
         }
+        valueStyle={{ fontWeight: "500" }}
       />
     </Card>
   );

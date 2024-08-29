@@ -34,7 +34,7 @@ export default function LineChartComponent({
   data: Array<Record<string, any>>;
 }) {
   return (
-    <Card className="w-96 rounded-2xl h-full">
+    <Card className="w-96 rounded-2xl h-full bg-white">
       <CardHeader>
         <CardTitle>User Growth</CardTitle>
         <CardDescription>
@@ -66,14 +66,14 @@ export default function LineChartComponent({
             <Line
               dataKey="totalUsers"
               type="natural"
-              stroke="#ef4444"
+              stroke="hsl(var(--chart-1))"
               strokeWidth={2}
               dot={true}
             />
             <Line
               dataKey="activeUsers"
               type="monotone"
-              stroke="#10b981"
+              stroke="hsl(var(--chart-2))"
               strokeWidth={2}
               dot={true}
             />
@@ -83,11 +83,11 @@ export default function LineChartComponent({
       <CardFooter className="flex-col gap-2 text-sm">
         <div className="flex gap-2 font-medium leading-none">
           <div className="flex items-center gap-2">
-            <div className="w-2 h-2 bg-[#ef4444]"></div>
+            <div className="w-2 h-2 bg-[#FE9A3C]"></div>
             <span>Total Users</span>
           </div>
           <div className="flex items-center gap-2">
-            <div className="w-2 h-2 bg-[#10b981]"></div>
+            <div className="w-2 h-2 bg-[#145365]"></div>
             <span>Active Users</span>
           </div>
         </div>

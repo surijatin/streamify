@@ -61,7 +61,7 @@ export function PieChartComponent({
   }, [activeSource, setRevSource]);
 
   return (
-    <Card data-chart={id} className="flex flex-col w-96 rounded-2xl">
+    <Card data-chart={id} className="flex flex-col w-96 rounded-2xl bg-white">
       <ChartStyle id={id} config={chartConfig} />
       <CardHeader className="flex-row items-start space-y-0 pb-0">
         <div className="grid gap-1">
@@ -74,7 +74,7 @@ export function PieChartComponent({
           >
             <SelectValue placeholder="Select source" />
           </SelectTrigger>
-          <SelectContent align="end" className="rounded-xl">
+          <SelectContent align="end" className="rounded-xl bg-white">
             {sources.map((key) => {
               const config = chartConfig[key as keyof typeof chartConfig];
 

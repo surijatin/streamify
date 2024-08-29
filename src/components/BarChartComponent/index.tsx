@@ -37,7 +37,7 @@ export function BarChartComponent({
   data: Array<Record<string, any>>;
 }) {
   return (
-    <Card className="w-96 rounded-2xl h-full">
+    <Card className="w-96 rounded-2xl h-full bg-white">
       <CardHeader>
         <CardTitle>Top 5 Streams</CardTitle>
       </CardHeader>
