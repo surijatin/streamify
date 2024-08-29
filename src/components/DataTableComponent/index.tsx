@@ -155,7 +155,9 @@ const DataTableComponent: React.FC<{ data: DataType[] }> = ({ data }) => {
 
   return (
     <>
-      <div className="text-2xl font-bold pb-4">Streaming Data Overview</div>
+      <div className="text-2xl font-bold pb-4 text-gray-900">
+        Streaming Data Overview
+      </div>
       <Table columns={columns} dataSource={data} bordered />
     </>
   );
