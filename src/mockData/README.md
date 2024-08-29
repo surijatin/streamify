@@ -1,5 +1,7 @@
 # Mock Data Structure
 
+For the sources of revenue, I have considered three main categories: Basic Subscription, Premium Subscription, and Ads. Each of these sources contributes to the overall revenue metrics, providing a comprehensive view of the financial performance of the Streamify platform.
+
 The project uses mock data to simulate various metrics. Below is the structure of the mock data used in this project:
 
 #### Metrics Data (`metricsData.json`)
