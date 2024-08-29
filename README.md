@@ -28,7 +28,7 @@ To run this project locally, follow these steps:
 
    ```sh
    git clone https://github.com/surijatin/streamify.git
-   cd streamify-dashboard
+   cd streamify
    ```
 
 2. **Install dependencies:**
