@@ -17,7 +17,7 @@ export default function Header() {
 
   return (
     <div className="py-4 px-6">
-      <div className="font-bold text-gray-900 text-2xl tracking-wide border text-center bg-white rounded-2xl py-2">
+      <div className="font-bold text-gray-900 text-2xl tracking-wide border text-center bg-white rounded-2xl py-2 drop-shadow-lg">
         {getTitle()}
       </div>
     </div>

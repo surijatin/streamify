@@ -1,14 +1,14 @@
 [
-  { "month": "September 2023", "totalUsers": 100, "activeUsers": 20 },
-  { "month": "October 2023", "totalUsers": 150, "activeUsers": 30 },
-  { "month": "November 2023", "totalUsers": 200, "activeUsers": 50 },
-  { "month": "December 2023", "totalUsers": 300, "activeUsers": 80 },
-  { "month": "January 2024", "totalUsers": 400, "activeUsers": 100 },
-  { "month": "February 2024", "totalUsers": 500, "activeUsers": 120 },
-  { "month": "March 2024", "totalUsers": 600, "activeUsers": 150 },
-  { "month": "April 2024", "totalUsers": 700, "activeUsers": 180 },
-  { "month": "May 2024", "totalUsers": 800, "activeUsers": 200 },
-  { "month": "June 2024", "totalUsers": 900, "activeUsers": 230 },
-  { "month": "July 2024", "totalUsers": 1000, "activeUsers": 250 },
-  { "month": "August 2024", "totalUsers": 1100, "activeUsers": 270 }
+  { "month": "September 2023", "totalUsers": 100, "activeUsers": 22 },
+  { "month": "October 2023", "totalUsers": 150, "activeUsers": 28 },
+  { "month": "November 2023", "totalUsers": 200, "activeUsers": 55 },
+  { "month": "December 2023", "totalUsers": 300, "activeUsers": 75 },
+  { "month": "January 2024", "totalUsers": 400, "activeUsers": 105 },
+  { "month": "February 2024", "totalUsers": 500, "activeUsers": 115 },
+  { "month": "March 2024", "totalUsers": 600, "activeUsers": 145 },
+  { "month": "April 2024", "totalUsers": 700, "activeUsers": 185 },
+  { "month": "May 2024", "totalUsers": 800, "activeUsers": 195 },
+  { "month": "June 2024", "totalUsers": 900, "activeUsers": 225 },
+  { "month": "July 2024", "totalUsers": 1000, "activeUsers": 255 },
+  { "month": "August 2024", "totalUsers": 1100, "activeUsers": 265 }
 ]

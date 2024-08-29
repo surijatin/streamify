@@ -64,12 +64,12 @@ export default function LeftSideBar() {
       <div className="mt-auto flex items-center">
         <div className="min-h-14 bg-gray flex items-center p-2 rounded">
           <Avatar
-            src="https://github.com/surijatin.png?size=200"
+            src="/avatar.png"
             size={"large"}
             className="text-white bg-gray-400 hover:cursor-pointer"
           />
           <div className="ml-2 flex flex-col">
-            <span className="text-gray-800">Jatin Suri</span>
+            <span className="text-gray-800 font-semibold">Jatin Suri</span>
             <span className="text-gray-800 text-sm">surijatin16@gmail.com</span>
           </div>
         </div>
