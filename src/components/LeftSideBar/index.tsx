@@ -64,7 +64,7 @@ export default function LeftSideBar() {
       <div className="mt-auto flex items-center">
         <div className="min-h-14 bg-gray flex items-center p-2 rounded">
           <Avatar
-            src="/avatar.png"
+            src="https://github.com/surijatin.png?size=200"
             size={"large"}
             className="text-white bg-gray-400 hover:cursor-pointer"
           />
