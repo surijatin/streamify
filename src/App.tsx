@@ -16,7 +16,7 @@ export default function App() {
         <div className="hidden md:block">
           <LeftSideBar />
         </div>
-        <div className="flex flex-col w-full pr-4 border overflow-auto">
+        <div className="flex flex-col w-full pr-4 border overflow-auto bg-zinc-50">
           <Header />
           <Routes>
             <Route path="/" element={<Navigate to="/overview" />} />
