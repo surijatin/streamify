@@ -1,10 +1,28 @@
 import { useState } from "react";
 import { useNavigate } from "react-router-dom";
-import { Divider } from "antd";
-import { Avatar } from "antd";
+import { Divider, Avatar } from "antd";
 
 export default function LeftSideBar() {
-  const [selectedItem, setSelectedItem] = useState("overview");
+  const menuItems = [
+    { name: "overview", label: "Overview", path: "/overview" },
+    {
+      name: "sales-and-revenue",
+      label: "Sales and Revenue",
+      path: "/sales-and-revenue",
+    },
+    { name: "subscriptions", label: "Subscriptions", path: "/subscriptions" },
+    {
+      name: "artist-overview",
+      label: "Artist Overview (New)",
+      path: "/artist-overview",
+    },
+  ];
+
+  const [selectedItem, setSelectedItem] = useState(() => {
+    const path = window.location.pathname;
+    const item = menuItems.find((menuItem) => menuItem.path === path);
+    return item ? item.name : "overview";
+  });
   const navigate = useNavigate();
 
   const handleSelection = (item: string, path: string) => {
@@ -23,43 +41,20 @@ export default function LeftSideBar() {
       </div>
       <Divider />
       <ul className="menu-list space-y-4">
-        <li
-          className={`menu-item p-2 rounded text-lg flex justify-between items-center hover:cusros-pointer ${
-            selectedItem === "overview"
-              ? "text-black bg-orange-300 drop-shadow-lg"
-              : "text-gray-500 bg-white hover:bg-orange-100"
-          }`}
-          onClick={() => handleSelection("overview", "/overview")}
-        >
-          <a href="#overview">Overview</a>
-          {selectedItem === "overview" && <span className="ml-2">→</span>}
-        </li>
-        <li
-          className={`menu-item p-2 rounded text-lg flex justify-between items-center hover:cusros-pointer ${
-            selectedItem === "sales-and-revenue"
-              ? "text-black bg-orange-300 drop-shadow-lg"
-              : "text-gray-500 bg-white hover:bg-orange-100"
-          }`}
-          onClick={() =>
-            handleSelection("sales-and-revenue", "/sales-and-revenue")
-          }
-        >
-          <a href="#sales-and-revenue">Sales and Revenue</a>
-          {selectedItem === "sales-and-revenue" && (
-            <span className="ml-2">→</span>
-          )}
-        </li>
-        <li
-          className={`menu-item p-2 rounded text-lg flex justify-between items-center hover:cusros-pointer ${
-            selectedItem === "subscriptions"
-              ? "text-black bg-orange-300 drop-shadow-lg"
-              : "text-gray-500 bg-white hover:bg-orange-100"
-          }`}
-          onClick={() => handleSelection("subscriptions", "/subscriptions")}
-        >
-          <a href="#subscriptions">Subscriptions</a>
-          {selectedItem === "subscriptions" && <span className="ml-2">→</span>}
-        </li>
+        {menuItems.map((item) => (
+          <li
+            key={item.name}
+            className={`menu-item p-2 rounded text-lg flex justify-between items-center hover:cursor-pointer ${
+              selectedItem === item.name
+                ? "text-black bg-orange-300 drop-shadow-lg"
+                : "text-gray-500 bg-white hover:bg-orange-100"
+            }`}
+            onClick={() => handleSelection(item.name, item.path)}
+          >
+            <span>{item.label}</span>
+            {selectedItem === item.name && <span className="ml-2">→</span>}
+          </li>
+        ))}
       </ul>
       <div className="mt-auto flex items-center">
         <div className="min-h-14 bg-gray flex items-center p-2 rounded">

@@ -94,7 +94,9 @@ export function BarChartComponent({
         <div className="flex gap-2 font-medium leading-none">
           Top streams for the current month
         </div>
-        <div className="flex gap-2 font-medium leading-none">August 2024</div>
+        <div className="flex gap-2 font-medium leading-none">
+          September 2024
+        </div>
       </CardFooter>
     </Card>
   );

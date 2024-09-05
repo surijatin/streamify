@@ -8,6 +8,7 @@ import LeftSideBar from "./components/LeftSideBar";
 import Header from "./components/Header";
 import OverviewDashboard from "./components/OverviewDashboard";
 import UnderDevelopmentComponent from "./components/UnderDevelopmentComponent";
+import ArtistOverviewComponent from "./components/ArtistOverviewComponent";
 
 export default function App() {
   return (
@@ -28,6 +29,10 @@ export default function App() {
             <Route
               path="/subscriptions"
               element={<UnderDevelopmentComponent />}
+            />
+            <Route
+              path="/artist-overview"
+              element={<ArtistOverviewComponent />}
             />
           </Routes>
         </div>

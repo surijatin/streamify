@@ -10,6 +10,8 @@ export default function Header() {
         return "Sales and Revenue";
       case "/subscriptions":
         return "Subscriptions";
+      case "/artist-overview":
+        return "Artist Overview";
       default:
         return "Dashboard";
     }
