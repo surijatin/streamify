@@ -4,7 +4,7 @@ This project is a dashboard for Streamify - a fictional music streaming service,
 
 ## Thought Process
 
-Given the technical requirements specified the use of **React**, the choice of framework was straightforward. I aimed to maintain a consistent color scheme aligned with [Speedy Labs](https://speedybrand.io/).
+Given the technical requirements specified the use of **React**, the choice of framework was straightforward.
 
 To achieve a minimal and elegant design, I utilized [Ant Design](https://ant.design/) for constructing basic components such as the metric card and the Data Table.
 
